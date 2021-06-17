@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&family=Roboto:wght@700&display=swap');
+
+*{  margin: 0;
+      padding: 0;
+      box-sizing: border-box;}
+
+main{ width: 100%;
+      height: 370px;
+      margin-left: auto;
+      margin-right: auto;}
+
+header{ 
+      width: 100%;
+    height: 100px;
+    background-color: #292b61;
+    margin-left: auto;
+    margin-right: auto;}
+
+nav{
+float: right;
+text-align: right;
+width: 100%; 
+height: 100px;
+background-color: #094db2;}
+
+section{
+	width: 100%;
+    height: 540px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;}
+
+#menu{
+margin: 0;
+height: 10px;
+width: 95%;}
+
+#logo{
+width: 5%;
+margin: 0;
+padding-top: 0.5%;
+padding-left: 5%;
+float: left;}
+
+footer{
+width: 100%;
+height: 60px;
+background-color: #16184c;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+clear: both;}
+
+p{
+width: 90%;
+padding-top: 3%;
+font-size: 30px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;
+}
+
+#menu li{
+display: inline;   
+}
+
+#menu li a{
+font-size: 35px; 
+font-family: 'Odibee Sans', cursive;
+text-decoration: none;
+float: right;
+padding-top: 1.5%;
+padding-left: 5%;
+color: #ffffff;}
+
+.nombre{
+width: 30%;
+color: #677dad;
+font-family: 'Roboto', sans-serif;
+font-size: 20pt;
+display: inline;
+line-height: 60px;
+font-style: none;
+padding-right: 7%;
+}  
+
+
+#blackmirror{
+width: 45%;
+padding-top: 0.7%;
+padding-left: 5%;
+float: left;
+}
+
+#icons{
+padding-top: 0.5%;
+padding-left: 2%;
+width: 20%;
+float: right;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#Sinopsis{
+float: left;
+padding-top: 1%%;
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 8%;
+height: 100px;}
+
+a{
+text-decoration: none;
+}
+
+body{
+background-color: #010410;
+}
+
+#fondo{
+background-image: url(capturas.png);
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-color: #010410;
+}
+h2{
+padding-top: 3%;
+font-size: 40px;
+color: #f29cff;
+font-family: 'Odibee Sans', cursive;
+
+}
+
+#Bing{
+padding-top: 1%;
+font-size: 20px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;
+}
+
+#personaje1{
+padding-top: 2%;
+padding-left: 2%;
+float: left;
+}
+
+#abi{
+padding-top: 1%;
+font-size: 20px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;
+}
+
+h3{
+padding-top: 3%;
+padding-left: 6.5%;
+font-size: 40px;
+color: #f29cff;
+font-family: 'Odibee Sans', cursive;
+
+}
+
+#personaje2{
+padding-top: 2%;
+padding-left: 2%;
+float: left;
+
+}
+
+#personaje3{
+padding-top: 2%;
+padding-left: 2%;
+float: left;
+}
+
+#juez{
+padding-top: 1%;
+padding-bottom: 5%;
+font-size: 20px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;
+
+}
+
+h4{
+padding-top: 3%;
+padding-left: 6.5%;
+font-size: 40px;
+color: #f29cff;
+font-family: 'Odibee Sans', cursive;
+
+}
+#formulario{
+      width: 85%;
+      margin-left: auto;
+      margin-right: auto;
+      float: left;
+      padding-left: 6%;
+}
+
+.boton{
+      width: 150px;
+      height: 50px;
+      color: #ffffff;
+      background-color: #0c86e4;
+      font-family: 'Odibee Sans', cursive;
+      font-size: 20px;
+      padding: 1%;
+      margin: 1%;
+}
+.cajita{
+      width: 200px;
+      height: 25px;
+}
+#label{
+      width: 60%;
+font-size: 30px;
+     color: #ffffff;
+font-family: 'Odibee Sans', cursive; 
+}
+#ingreso{
+padding-bottom: 2%;
+}
+
+#respuesta{
+font-size: 20px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;   
+}
+
+#aceptar{
+font-size: 20px;
+     color: #ffffff;
+font-family: 'Odibee Sans', cursive; 
+}
+
+#segundapregunta{
+padding-bottom: 1%;
+
+}
+
+section a{
+padding-top: 1%;
+padding-right: 1%;
+}
+
+#icons a{
+padding-left: 5%;
+}
+

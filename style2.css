@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&family=Roboto:wght@700&display=swap');
+
+*{  margin: 0;
+      padding: 0;
+      box-sizing: border-box;}
+
+main{ width: 100%;
+      height: 370px;
+      margin-left: auto;
+      margin-right: auto;}
+
+header{ 
+      width: 100%;
+    height: 100px;
+    background-color: #2a8f52;
+    margin-left: auto;
+    margin-right: auto;}
+
+nav{
+float: right;
+text-align: right;
+width: 100%; 
+height: 100px;
+background-color: #860b0b}
+
+section{
+	width: 100%;
+    height: 540px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;}
+
+#menu{
+margin: 0;
+height: 10px;
+width: 95%;}
+
+footer{
+width: 100%;
+height: 60px;
+background-color: #4c1616;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+clear: both;}
+
+p{
+width: 90%;
+padding-top: 3%;
+font-size: 30px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;
+}
+
+#menu li{
+display: inline;   
+}
+
+#menu li a{
+font-size: 35px; 
+font-family: 'Odibee Sans', cursive;
+text-decoration: none;
+float: right;
+padding-top: 1.5%;
+padding-left: 5%;
+color: #f1b000;}
+
+#nombre{
+width: 30%;
+color: #c9aa00;
+font-family: 'Odibee Sans', cursive;
+font-size: 20pt;
+display: inline;
+line-height: 70px;
+text-align: center;
+}  
+
+#Sinopsis{
+float: left;
+padding-top: 1%%;
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 8%;
+height: 100px;}
+
+a{
+text-decoration: none;
+padding-left: 7%;
+}
+
+body{
+background-color: #5d3737;
+}
+
+#fondo{
+background-image: url(mapa.png);
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-color: #341a1a;
+}
+h2{
+padding-top: 2%;
+padding-left: 7%;
+padding-bottom: 1%;
+font-size: 40px;
+color: #c9aa00;
+font-family: 'Odibee Sans', cursive;
+
+}
+section a{
+float: left;
+width: 20%;
+padding-left: 7%;
+}
+h3{
+padding-top: 3%;
+padding-left: 24%;
+font-size: 40px;
+color: #ffffff;
+font-family: 'Odibee Sans', cursive;
+}
+
+#logo{
+font-size: 35px; 
+font-family: 'Odibee Sans', cursive;
+color: #f1b000;
+padding-top: 1%;
+padding-left: 5%;
+float: left;}
+
+.pdf{
+width: 100%;
+height: 550px;
+}
+
+#fondo2{
+background-image: url(eleccionesch.png);
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-color: #341a1a;
+}
+
+#fondo3{
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+background-position: center;
+background-color: #341a1a;
+}
