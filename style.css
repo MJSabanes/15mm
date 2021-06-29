@@ -64,11 +64,11 @@ display: inline;
 }
 
 #menu li a{
-font-size: 35px; 
+font-size: 30px; 
 font-family: 'Odibee Sans', cursive;
 text-decoration: none;
 float: right;
-padding-top: 1.5%;
+padding-top: 2%;
 padding-left: 5%;
 color: #ffffff;}
 
@@ -76,7 +76,7 @@ color: #ffffff;}
 width: 30%;
 color: #677dad;
 font-family: 'Roboto', sans-serif;
-font-size: 20pt;
+font-size: 15pt;
 display: inline;
 line-height: 60px;
 font-style: none;
@@ -86,8 +86,8 @@ padding-right: 7%;
 
 #blackmirror{
 width: 45%;
-padding-top: 0.7%;
-padding-left: 5%;
+padding-top: 1.2%;
+padding-left: 8%;
 float: left;
 }
 
@@ -133,6 +133,8 @@ font-family: 'Odibee Sans', cursive;
 }
 
 #Bing{
+margin-left: auto;
+margin-right: 50%;
 padding-top: 1%;
 font-size: 20px;
 color: #ffffff;
@@ -146,6 +148,8 @@ float: left;
 }
 
 #abi{
+margin-left: auto;
+margin-right: 50%;
 padding-top: 1%;
 font-size: 20px;
 color: #ffffff;
@@ -175,6 +179,8 @@ float: left;
 }
 
 #juez{
+margin-left: auto;
+margin-right: 50%;
 padding-top: 1%;
 padding-bottom: 5%;
 font-size: 20px;
@@ -215,7 +221,7 @@ font-family: 'Odibee Sans', cursive;
 }
 #label{
       width: 60%;
-font-size: 30px;
+font-size: 25px;
      color: #ffffff;
 font-family: 'Odibee Sans', cursive; 
 }
@@ -248,4 +254,3 @@ padding-right: 1%;
 #icons a{
 padding-left: 5%;
 }
-
